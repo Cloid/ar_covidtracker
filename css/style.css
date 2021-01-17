@@ -1257,6 +1257,42 @@ ul.top_infomation li i:hover {
     max-width: 23px;
 }
 
+
+.team {
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+
+.team-container {
+    padding-left: 200;
+    text-align: center;
+    margin: auto;
+    max-width: 920px;
+}
+
+.team-section-header {
+  text-align: center;
+    padding-bottom: 30px;
+}
+
+.team-member {
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+
+.team-member-position {
+    
+    color: #747474;
+}
+
+.team-member-text {
+    padding-top: 25px;
+}
+
+.team-social-icon {
+    padding: 7px;
+}
+
 /** end footer **/
 
 
